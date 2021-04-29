@@ -53,7 +53,7 @@ body {
 .header__logo img {
 }
 .hero {
-    background-image: url("/images/header-bg.jpg");
+    background: url("../images/header-bg.jpg");
     transform: translateY(-150px);
     height: 800px;
     position: relative;
